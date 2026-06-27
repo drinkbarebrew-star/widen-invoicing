@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --accent: #b35a33; }
+html, body { height: 100%; }
+body { background: #f4f1ec; color: #1f1108; }
